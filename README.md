@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Richard Santos 😎
 
 ### 👨‍💻 Sobre mim
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **UNIP** - Formao em 2025
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **UNIP** - Formado em 2025
 - 💼 Experiência como **Quality Assurance (QA)** no **Itaú Unibanco**, atuando em squads de:  
   - **Lista de Cartões**  
   - **Portal de Massa**  
@@ -20,12 +20,6 @@
 
 ### 🌐 Minhas redes sociais
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richbar/)
-[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/santoosz/)
-
----
-
-### 📊 Estatísticas do GitHub
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=richbars&show_icons=true&theme=radical)
 
 ---
 
@@ -38,6 +32,7 @@
 ![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 #### 🗄️ Banco de Dados
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
